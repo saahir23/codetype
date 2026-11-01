@@ -35,7 +35,7 @@ without it).
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/codetype.git
+git clone https://github.com/saahir23/codetype.git
 cd codetype
 ```
 
